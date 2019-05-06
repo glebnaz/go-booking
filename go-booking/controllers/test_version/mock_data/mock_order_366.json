@@ -1,0 +1,34 @@
+[
+  {
+    "store_id": "72988",
+    "name": "Gleb Test",
+    "phone": "+79173065223",
+    "comment": "тестовый заказ",
+    "basket":[
+      {
+        "product_id": "17328",
+        "qty": 1
+      },
+      {
+        "product_id": "36477",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "store_id": "72988",
+    "name": "Fail",
+    "phone": "+79173065223",
+    "comment": "test",
+    "basket":[
+      {
+        "product_id": "40469",
+        "qty": 1
+      },
+      {
+        "product_id": "42469",
+        "qty": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "RostaConf":{
+    "USER": "RosPharm",
+    "PASS": "MC1IJC",
+    "URL":"http://84.201.141.225/erkapharm/orders",
+    "URL_TEST": "http://ws-dev.erkapharm.com:8990/ecom_test/hs/orders"
+  },
+  "PermFarmConf":{
+    "Url":"",
+    "UrlTest":"https://gate-test.qwerty.perm.ru/reserve/gate/reserve/NewReserve"
+  },
+  "Apteka366":{
+    "Client_id":"Rosfarmclient",
+    "Client_Secret":"Rosfarm121314",
+    "Grant_type":"password",
+    "UserName":"Rosfarmcustomer",
+    "Password":"Rosfarm121314",
+    "Url":"http://localhost:8999/366",
+    "Url_Test":"http://localhost:8999/366",
+    "UrlToken":"https://366.ru/authorizationserver/oauth/token"
+  },
+  "Rigla":{
+    "Token":"j231aj29xynxr7cve2ticinhbvqbcsnf",
+    "URL":"https://pharmdelivery.ru/rest/V1/"
+  },
+  "Code_Farm":{
+    "ROSTA_CODE_FARM": "239",
+    "PERM_CODE_FARM": "93",
+    "Apteka366_CODE_FARM": "80",
+    "RIGLA_CODE_FARM": "145"
+  }
+}
